@@ -1,5 +1,6 @@
 allure-pytest==2.13.2
 allure-python-commons==2.13.2
+altgraph @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
 attrs==23.1.0
 certifi==2023.5.7
 cffi==1.15.1
@@ -7,9 +8,11 @@ charset-normalizer==3.2.0
 colorama==0.4.6
 exceptiongroup==1.1.2
 Faker==19.1.0
+future @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
 h11==0.14.0
 idna==3.4
 iniconfig==2.0.0
+macholib @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 mypy==1.4.1
 mypy-extensions==1.0.0
 outcome==1.2.0
